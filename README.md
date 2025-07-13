@@ -85,10 +85,13 @@ To generate metric outputs for metric evaluation from scratch: `sh run_citeeval.
     "query": "this is a user query",
     "passages": [
         {
-            "text": "this is the content of this passage",
-            "title": "this is the title of the document to which this passage belongs (optional)"
+            "text": "this is the content of the first passage",
+            "title": "this is the title of the document to which the first passage belongs (optional)"
         },
-        ....
+        {
+            "text": "this is the content of the second passage",
+            "title": "this is the title of the document to which the second passage belongs (optional)"
+        }
     ],
     "pred": "this is a model-generated response with citations in brackets"
 }
@@ -111,12 +114,13 @@ Move move file under `data/system_eval`, where we provide an example file `syste
 
 
 ## Project Directory
-- `modules`: core modules for CiteEval-Auto
-- `scripts`: scripts for benchmark analysis, metric evaluation and system evaluation
-- `template_configs`: prompt templates for CiteEval-Auto, including: 
+- `src/modules`: core modules for CiteEval-Auto
+- `src/scripts`: scripts for benchmark analysis, metric evaluation and system evaluation
+- `src/data`: files for data creation and loading
+- `src/common_utils`: common utils for logging and eval
+- `src/template_configs`: prompt templates for CiteEval-Auto, including: 
     - `citeeval_ca.cfg`: context attribution
     - `citeeval_ce_cr.cfg`: citation editing and rating
-- `data`: files for data creation and loading
 
 ## Security
 

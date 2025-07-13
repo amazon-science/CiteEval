@@ -1,0 +1,96 @@
+[
+  {
+    "id": "example_1",
+    "query": "can use hkd in shenzhen?",
+    "passages": [
+      {
+        "text": "shops on the Shenzhen side of the Chung Ying Street \u4e2d\u82f1\u8857 will take HKD. However, do not count on it: not to mention the poor exchange rates, you don't want to wander around searching for a store that takes HKD! In the past (i.e. when my parents were still young and when Hong Kong was still under British rule), most shops in Shenzhen did accept Hong Kong dollars, and HKD was a de facto second currency in Shenzhen; this situation continued into the early 21st century. Now, using HKD in Shenzhen is limited to the aforementioned areas. HKD is almost",
+        "title": ""
+      },
+      {
+        "text": "HKD in Shenzhen is basically a no go. You may find the occasional person or merchant to take HKD, but the exchange rate will be atrocious. You will be much better off getting cash from an ATM.",
+        "title": ""
+      },
+      {
+        "text": "In Shenzhen, many establishments near entry point areas will take HKD, but the exchange rates are usually suboptimal. One such area is Shuiwei (Shui Wai) \u6c34\u56f4 area, which is frequented by guests from the Hong Kong (it was notorious for being a red light district in the past, but not anymore --- mainly just restaurants and cafes now). Many of those restaurants and cafes take payments in HKD, but really that's about it. To a lesser extent, some establishments in Shekou (Shek Hau) \u86c7\u53e3, Wenjindu (Man Kam To) \u6587\u9526\u6e21 and Shatoujiao (Sha Tau Kok) \u6c99\u5934\u89d2 might take HKD. Of course,",
+        "title": ""
+      },
+      {
+        "text": "The answer is a little bit long, so i jump to the conclusion in the beginning. Louhu/Lo Wu Point is suggested to be used due to its location advantage, and Futian/Lok Ma Chau is also advised. If you are going to HK airport, travel by ship is also a good option. Chartered car are advised if you have enough budget/ travel with disabilities. Land transport: There are 6 control points/Kouan(Port) between Shenzhen and HK: The most convenient way is Louhu/Lo Wu, the port in Shenzhen side is serviced with many public transport including train, metro, local bus and long-route coach",
+        "title": ""
+      },
+      {
+        "text": "Before you leave Macau (and if you plan to never return) you should use all the Pataca up, but save your HKD. HKD can be used in either HK or Macau, but the Pataca only in Macau.",
+        "title": ""
+      },
+      {
+        "text": "far the least painful way I've met to get through China/HK customs. Sit in van, hold up passport, ... . (having filled in forms). Far dearer than train. About $US35 - $45 depending on company used. MANY offerers (I have contact details if od interest). If you started really early and came back late (don't miss border closure) you could get the better part of a day in \"real China\". Shenzhen subway is also very very very good. Frequent, cheap, fast, clean. no hassles. Inside the central city it is underground, but as you get out into the suburbs it",
+        "title": ""
+      },
+      {
+        "text": "policy for cancellation and alteration. I doubt this is feasible, since you mention flying to Beijing, but for completeness' sake: if possible, I recommend using Hong Kong as your destination airport and traveling overland to China (or perhaps Taiwan and taking the ferry). You'll incur a few hours' travel time (2-3 from HKG to Shenzhen) and the price of transit (should be under 10 USD, assuming you take the metro) but the airfares using HKG instead of SZX or CAN are considerably cheaper in my experience. Overland travel is also much cheaper and generally more flexible than airfares.",
+        "title": ""
+      },
+      {
+        "text": "Chinese Customs operate both at harbours and airports. Should there be a restriction on bicycles, and I don't believe there is, it would apply at all ports of entry. The reason I don't believe there are restrictions on (temporary) importation of bicycles for personal use is that I see it done every time I go to Shenzhen from HK. Cyclists, all decked in bright gear, taking their bicycles to Shenzhen to ride.",
+        "title": ""
+      },
+      {
+        "text": "The area next to Hong Kong-China Boundary in Hong Kong is Frontier Closed Area. Only permitted people can access it. If you want to cross the boundary, the cheapest way is Huangbus (\u7687\u5df4\u58eb) from Huanggang Port to San Tin Public Transport Interchange. It costs $9 HKD, paid by cash or Octopus card. Dont expect to hitchhike in GuangDong. Each year many drivers were murdered or lost property in the highway because of this, so they just will ignore you. By the way, if you wish to walk from Guangzhou to Shenzhen, there is not much information, but there is a",
+        "title": ""
+      },
+      {
+        "text": "not linked on foot or by any transport. Shenzhenwan /Shenzhen Bay port is less used but also less convenient. Both side are serviced with a few bus/coach serviced, and it is far from Shenzhen city centre. The port is also busy on public days but less than the 3 mention above. The remain 2 ports are even less convenient but also less used. It takes 45mins-1hrs from the port(after immigration and custom control) to Kowloon, and 1-1.5hr to HK Island, regardless by Coach or by MTR. More details can see here Sea transport: There is ship services between Shekou Ferry",
+        "title": ""
+      }
+    ],
+    "pred": "HKD is almost useless in Shenzhen, except for a few areas [1]. You may find the occasional person or merchant to take HKD, but the exchange rate will be atrocious [2]. In Shenzhen, many establishments near entry point areas will take HKD, but the exchange rates are usually suboptimal [3]. Some areas like Shuiwei, Shekou, Wenjindu, and Shatoujiao might take HKD, but it's limited [3].\n\nFinal answer: No, HKD is not widely accepted in Shenzhen, and the exchange rate is usually poor. [1][2][3]"
+  },
+  {
+    "id": "example_2",
+    "query": "munich to rome by train (avoiding tunnels)",
+    "passages": [
+      {
+        "text": "(I read the question title \"Munich from Rome\" and therefore this is a northbound description, but the route should by symmetrical in the opposite direction) You can't do this entirely by train avoiding long tunnels, but you can take a combination of trains and buses, essentially take trains to the foot of the Alps, buses across the big passes, then get on the train again on the other side. This will be much easier in summer than in winter, as most passes are closed in winter. In either case it will require extensive planning, a long time, will probably cost",
+        "title": ""
+      },
+      {
+        "text": "Trieste with a change in Ljubljana (takes 10:55 hours). Then you can take trains as described in other answers to Rome. I doubt you will make it on that day, though. Make sure to go via Graz and not via Villach since this will mean a lot more tunnels. The line from Vienna to Trieste only sees one bigger tunner, the Semmering tunnel which is 1500m long. Otherwise there are only few short tunnels. So the route is (Munich - Wienerwald tunnel bypass -) Vienna - Graz - Ljubljana - Trieste (- Bologna - Rome). If you want to take",
+        "title": ""
+      },
+      {
+        "text": "Challenge accepted. Since you posted the question of how to get to Budapest from Munich a while ago (How to avoid the huge tunnel at Vienna when travelling from Munich to Budapest by train?), I will take it from there. You can take the train as described until Vienna. I suggest doing this on day 1, so that you can spend the night in Vienna. This is because I will now take you through Slovenia into Italy. There is only one viable train going to Trieste from Vienna which leaves Vienna at 7:58 in the morning and gets you to",
+        "title": ""
+      },
+      {
+        "text": "In case the comments to the question disappear if the OP is happy to pass through tunnels while asleep the NightJet from Roma Termini leaves at 1858 which for most of the winter is dark and arrived at M\u00fcnchen Hbf at 0819 the next day. It would be best to book a single sleeping compartment so you can be sure you can pull the blind down to avoid seeing anything while passing. Of course this will not work if it is the knowledge that one might be in a tunnel which is the trigger rather than knowing one actually is.",
+        "title": ""
+      },
+      {
+        "text": "the New Lower Inn Valley railway which is mostly built in tunnels, but local trains via Rosenheim might take the old mostly tunnel-free track \u2014 check this carefully. From Rosenheim it's easy to reach Munich. Bus Airolo - G\u00f6schenen (summer only) Alternately, you can take a train to Airolo, then take a bus over the summit of the pass to G\u00f6schenen (summer only), and get back on the train from there, having reached the northern side. Be careful in your planning, most buses take a tunnel. There are still tunnels on the connecting tracks, so you'd have to see if",
+        "title": ""
+      },
+      {
+        "text": "Openstreetmap\u2019s car route Munich\u2013Genoa does not tangent the Gotthard area, and neither does bahn.de\u2019s train route suggestion for that relation. The latter does Munich\u2013Verona\u2013Milano\u2013Genova with a EuroCity connection across the Brenner to Verona and takes ten hours. Considering that to use the Gotthard base tunnel by rail you would need to somehow get to its northern portal, the options of coming close are either via Bregenz or the grand detour via Stuttgart/Karlsruhe. (The latter is funnily suggested as an overnight alternative using a late-night ICE from Munich to Karlsruhe. The former is only sort-of found in form of a connection",
+        "title": ""
+      },
+      {
+        "text": "carriages from Milan aren't running (they would normally join the carriages from Rome at Verona, and the Rome\u2013Munich train is running). From Munich, another 2\u00bd hours get you to Stuttgart. It's a very roundabout trip. If you can catch the Rome\u2013Milan in a more reasonable place such as Florence, Bologna or Verona, you can depart late at night and be in Munich at 6:30 and in Frankfurt at 10:00. That's a bit of a roundabout trip, departing late at night and arriving too late for a morning meeting the next day. There are several night trains departing Basel. Two of",
+        "title": ""
+      },
+      {
+        "text": "more, and will give you lots of scenic views. Via the Bernina Railway Train Milano\u2013Scuol (6 hours), bus Scuol\u2013Landeck (1\u00bd hour), train Landeck\u2013Munich (3 hours). Three tunnels >1500 metre, longest tunnel 2350 metre. The only railway that crosses from the Italian side to the German side of the Alps without a big tunnel is the Bernina railway connecting Tirano (Lombardia, Italy) to St. Moritz (Graub\u00fcnden, Switzerland). The longest tunnel on this railway is 689 metre and it runs year round. You can get from Milano to Tirano via Lecco and Sondrio along the Tirano-Lecco railway which does not appear to",
+        "title": ""
+      },
+      {
+        "text": "I doubt it will change much, driving will still be faster. Based on a Google Maps itinerary search, we find out that it currently takes up to 7 hours by car, while it takes 9 hours by train, through Austria. The Gotthard tunnel is located in Switzerland, and while its goal is to reduce the time to travel between Zurich (Switzerland) and Milano (Italy) to 2h40, there is no fast train route between Munich and Zurich. What is interesting to notice is that on the map, by drawing a straight line between Munich and Genoa, it does not go through",
+        "title": ""
+      },
+      {
+        "text": "Switzerland (or only along its eastern border). So going by train through the Gotthard tunnel will likely not help. If we still try to estimate the time it takes between the two cities with the estimate given in the first article, going between Munich and Zurich currently takes at least 3h40 according to the Deutsche Bahn in a bus (!), then say 2h40 to Milano, and finally with the Google Maps search we found that the train between Milano and Genoa takes 1h45. By adding up all of them, we still find 8 hours. In the end, even if somehow",
+        "title": ""
+      }
+    ],
+    "pred": "The answer is to take trains to the foot of the Alps, then buses across the big passes, and then get on the train again on the other side [1]. This route will be much easier in summer than in winter, as most passes are closed in winter [1]."
+  }
+]
